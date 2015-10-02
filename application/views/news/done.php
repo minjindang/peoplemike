@@ -19,6 +19,6 @@
     訂購成功!!!
     </br>
     </br>
-        <a href="http://210.242.195.229/index.php/news">回瀏覽頁</a>
+        <a href="https://peoplemike-willycode-1.c9.io/index.php/news">回瀏覽頁</a>
     </body>
 </html>

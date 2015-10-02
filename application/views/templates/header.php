@@ -5,3 +5,14 @@
     </head>
     <body>
 	<h1>人人賣客</h1>
+	<div class="top">
+	    <div class="row">
+	        <div class="col-md-6 pull-left">
+	            
+	        </div>
+	        <div class="col-md-6 pull-right">
+	            
+	        </div>
+	    </div>
+	    
+	</div>

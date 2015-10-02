@@ -1,0 +1,11 @@
+mysql-ctl start
+phpmyadmin-ctl install
+
+https://peoplemike-willycode-1.c9.io/phpmyadmin
+Username: willycode
+
+商品開團網址
+https://peoplemike-willycode-1.c9.io/index.php/news
+
+開團網址
+https://peoplemike-willycode-1.c9.io/index.php/news/create
